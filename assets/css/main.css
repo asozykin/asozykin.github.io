@@ -2826,7 +2826,7 @@ input, select, textarea {
 		-webkit-align-items: center;
 		-ms-align-items: center;
 		align-items: center;
-		text-align: left;
+		text-align: justify;
 		margin: 4em 0;
 	}
 
